@@ -1,0 +1,17 @@
+{
+  "name": "dto-to-yaml",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "dto-to-yaml": "./bin/dto-to-yaml.ps1"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casey Adesola Fernandes Olawuni",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.14.1"
+  }
+}
